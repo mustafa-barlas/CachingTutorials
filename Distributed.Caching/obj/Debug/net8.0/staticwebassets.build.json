@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4UHU3Zpd5m67qon21LTzDd2ayeaNa2iV8QgXKZKQi8I=",
+  "Source": "Distributed.Caching",
+  "BasePath": "_content/Distributed.Caching",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
